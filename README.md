@@ -1,14 +1,14 @@
 ### About Me \ Обо мне
-Привет! Я  - junior аналитик данных. 
-За спиной у меня свыше 5 лет работы в финансовом секторе (страхование и лизинг).
-Недавно решил расширить свои знания и успешно прошел курс "Аналитик данных" от Яндекс.Практикум.
-Сейчас активно интересуюсь и изучаю анализ данных и все что с ним связано.
-Рассматриваю различные предложения о работе.
+Привет! Я  - junior аналитик данных.   
+За спиной у меня свыше 5 лет работы в финансовом секторе (страхование и лизинг).  
+Недавно решил расширить свои знания и успешно прошел курс "Аналитик данных" от Яндекс.Практикум.  
+Сейчас активно интересуюсь и изучаю анализ данных и все что с ним связано.  
+Рассматриваю различные предложения о работе.  
 
-Hey there! I'm a junior data analyst
-In the past, i have over 5 years of experience in the financial sector, specifically insurance and leasing.
-I recently decided to expand my knowledge and completed the "Data Analyst" course from Yandex.Practicum.
-Right now, I'm really interested in and studying data analysis and everything related to it. I'm currently considering different job offers.
+Hey there! I'm a junior data analyst.  
+In the past, i have over 5 years of experience in the financial sector, specifically insurance and leasing.  
+I recently decided to expand my knowledge and completed the "Data Analyst" course from Yandex.Practicum.  
+Right now, I'm really interested in and studying data analysis and everything related to it. I'm currently considering different job offers.  
 
 ### Languages & Tools \ Языки и инструменты
 ![SQL](https://img.shields.io/badge/-PostgreSQL-69b5cc?style=for-the-badge&logo=postgreSQL)
