@@ -1,3 +1,5 @@
+## Hi there! I'm Artem Pavlov
+
 ### About Me \ Обо мне
 Привет! Я  - junior аналитик данных.   
 За спиной у меня свыше 5 лет работы в финансовом секторе (страхование и лизинг).  
@@ -5,7 +7,7 @@
 Сейчас активно интересуюсь и изучаю анализ данных и все что с ним связано.  
 Рассматриваю различные предложения о работе.  
 
-Hey there! I'm a junior data analyst.  
+Hi! Now I'm a junior data analyst.  
 In the past, i have over 5 years of experience in the financial sector, specifically insurance and leasing.  
 I recently decided to expand my knowledge and completed the "Data Analyst" course from Yandex.Practicum.  
 Right now, I'm really interested in and studying data analysis and everything related to it. I'm currently considering different job offers.  
